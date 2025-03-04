@@ -62,6 +62,7 @@
               <arg>-Xlint:unchecked</arg>
               <arg>-Xlint:deprecation</arg>
             </compilerArgs>
+            <debug>false</debug>
             <useIncrementalCompilation>false</useIncrementalCompilation>
             <annotationProcessorPaths>
               <path>
